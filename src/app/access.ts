@@ -50,7 +50,6 @@ import { AccountRole, Auth } from './auth';
       <p class="access-switch">{{register ? '¿Ya tenés cuenta?' : '¿Todavía no tenés cuenta?'}}
         <a [routerLink]="register ? '/ingresar' : '/registro'">{{register ? 'Ingresá' : 'Registrate'}}</a>
       </p>
-      <a class="action wide demo-entry" routerLink="/demostracion">Probar empresas y entradas de ejemplo</a>
       <p class="field-hint">Acceso de demostración. Tu cuenta se guarda en este navegador y dispositivo.</p>
     </div></ion-content>
   `

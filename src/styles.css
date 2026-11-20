@@ -277,8 +277,6 @@ select { width: 100%; min-height: 48px; border: 1px solid var(--line); border-ra
 .agenda-status { margin-top: 24px; color: var(--muted); font-size: 11px; line-height: 1.5; }
 
 .app-logo-bar { justify-content: space-between; gap: 16px; }
-.demo-link { color: var(--lime); font-size: 12px; padding: 8px 0; }
-.demo-entry { margin: 8px 0 16px; }
 .demo-page > h1 { font-size: clamp(32px,7vw,48px); }
 .demo-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,280px),1fr)); gap: 20px; }
 .demo-company { background: var(--surface); border: 1px solid var(--line); border-radius: 22px; overflow: hidden; }

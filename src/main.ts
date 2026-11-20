@@ -44,7 +44,7 @@ const routes: Routes = [
   imports: [IonApp, IonRouterOutlet, IonIcon, RouterLink, RouterLinkActive],
   template: `
     <ion-app>
-      <header class="app-logo-bar"><a class="brand" [routerLink]="homeLink()" aria-label="Qué Surge · Volver al inicio">Qué <em>Surge.</em></a><a class="demo-link" routerLink="/demostracion">Ver demos</a></header>
+      <header class="app-logo-bar"><a class="brand" [routerLink]="homeLink()" aria-label="Qué Surge · Volver al inicio">Qué <em>Surge.</em></a></header>
       <main class="app-body" id="contenido"><ion-router-outlet /></main>
       @if (showNavigation()) {
       <nav class="bottom-nav" aria-label="Navegación principal">

@@ -72,7 +72,7 @@ Inicio sigue Home (1:1267) del archivo Proyecto que surge en Figma, con sus recu
 
 Al abrir la app se agregan escenarios de demostración con tres empresas, seis eventos publicados, tres compradores, tres validadores y 18 entradas distribuidas en seis compras. Tres entradas ya están utilizadas y quince están disponibles inicialmente.
 
-Abrí /demostracion o tocá Ver demos para entrar directamente al panel de cada empresa, ver sus ventas, abrir su validador o ver las entradas de los compradores. La contraseña de todas estas cuentas ficticias es SurgeDemo2026!. Los correos de acceso se muestran en la pantalla de demostración.
+La ruta /demostracion permite revisar los paneles de las empresas, sus ventas, validadores y las entradas de los compradores. Se accede escribiendo la ruta en el navegador. La contraseña de todas estas cuentas ficticias es SurgeDemo2026!. Los correos de acceso se muestran en la pantalla de demostración.
 
 La carga agrega los registros de ejemplo faltantes. Reabrir la app conserva las validaciones y los cambios realizados. Las cuentas de ejemplo viven en el mismo navegador y origen que el resto del prototipo. Las entradas y los importes son ficticios y sirven para recorrer las pantallas.
 
